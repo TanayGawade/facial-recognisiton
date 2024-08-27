@@ -1,4 +1,4 @@
-# facila-recognisiton
+# facial-recognisiton
 
 CNN Introduction: Building a Simple Face Recognition Model Using Keras
 Objective:
