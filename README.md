@@ -1,4 +1,4 @@
-# facial-recognisiton
+# facial-recognition
 
 CNN Introduction: Building a Simple Face Recognition Model Using Keras
 Objective:
